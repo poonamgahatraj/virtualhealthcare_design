@@ -220,8 +220,28 @@
 }
 .box7
 {
-    border:2px solid black;
+    
     background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
     display:flex;
+    justify-content: center;
+    margin-top:10%;
 }
 
+.content5
+{
+   display:flex; 
+   width: 75%;
+    margin-top: 3%;
+}
+.company
+{
+    width:250px;
+}
+.region
+{
+    width:250px;
+}
+.help
+{
+    width:250px;
+}
