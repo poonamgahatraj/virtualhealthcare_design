@@ -69,9 +69,9 @@
     width:30%;
     height:300px;
     margin-bottom: 10px;
-    background:#F3F7FF
+    background:#FFFFFF
     100%;
-    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 10px 40px 50px 0px #E5E9F666;
 }
 
 .c1
@@ -103,12 +103,13 @@
 }
 
 .para1{
-    width:70%;
-    margin-top: 5%;
+    width:125%;
+    
     margin-left: 30%;
+    margin-top: -4%;
 }
 .heading{
-    width:50%;
+    width:100%;
     margin-left: 30%;
 
 }
@@ -116,6 +117,7 @@
 .content2
 {
     margin-top:5%;
+    margin-right:20%;
 }
 
 .box4
@@ -128,13 +130,98 @@
 }
 
 .heading1{
-    width:50%;
+   
+    width: 75%;
     
 
 }
 
 .para2{
     width:69%;
-    margin-top: 5%;
+    margin-top: -5%;
   
 }
+
+.box5
+{
+   
+    margin-left: 180px;
+    margin-right: 180px;
+    width:70%;
+    margin-top: 10%;
+    border-radius: 24px;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+
+}
+
+
+.heading2
+{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 5%;
+}
+
+.content3
+{
+    display:flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.profile_info
+{
+    color:white;
+    margin-left: 5%;
+    margin-top: 15px;
+}
+
+.intro
+{
+    color:white;
+    width:32%;
+    margin-left: 10%;
+    line-height: 25px;
+}
+
+.profile
+{
+    margin-bottom: 5%;
+}
+
+.box6
+{
+    margin-left: 180px;
+    margin-right: 180px;
+    width:70%;
+    margin-top: 10%; 
+}
+
+.content4
+{
+    display:flex;
+    justify-content: space-between;
+    margin-top:5%;
+}
+
+.img1
+{
+    width:295px;
+}
+
+.pic1
+{
+    box-shadow: 10px 40px 50px 0px #E5E9F666;
+    background: #FFFFFF;
+
+
+}
+.box7
+{
+    border:2px solid black;
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    display:flex;
+}
+
